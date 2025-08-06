@@ -28,7 +28,6 @@ Para deixar tudo funcionando redondo, foram usadas algumas bibliotecas essenciai
 
 - **numpy** — para manipulação eficiente de dados numéricos.
 - **pandas** — análise e organização dos dados tabulares dos jogadores.
-- **matplotlib** e **seaborn** — visualização de dados para gráficos e insights visuais.
 - **jupyter** — ambiente interativo para explorar e testar códigos.
 
 ---

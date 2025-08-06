@@ -1,0 +1,101 @@
+id,nome,idade,nacionalidade,posição,clube,valor_mercado_milhoes,gols_temporada,assistencias_temporada,partidas_jogadas,nota_media
+1,Bruno Rocha,25.0,França,Zagueiro,Benfica,,1,13.0,20,6.2
+2,Lucas Ramos,,Portugal,Zagueiro,São Paulo,,12,13.0,30,
+3,Pedro Nunes,,França,Goleiro,São Paulo,,0,,18,7.8
+4,Rafael Nunes,,Chile,,Palmeiras,,29,,13,
+5,Pedro Alvarez,,Brasil,Meia,Benfica,,24,,12,
+6,Diego Dias,,França,Atacante,Benfica,31.4,29,,17,
+7,Rafael Lima,24.0,Uruguai,Meia,São Paulo,28.2,13,,28,7.7
+8,Carlos Costa,35.0,Chile,Atacante,Benfica,,17,14.0,31,
+9,Bruno Mendes,,Chile,Lateral,Santos,46.6,29,,15,
+10,João Mendes,32.0,Brasil,Zagueiro,Corinthians,97.3,20,12.0,14,
+11,Lucas Costa,25.0,Uruguai,Goleiro,Colo-Colo,17.5,0,,35,
+12,Pedro Nunes,25.0,Colômbia,Zagueiro,Colo-Colo,,21,,24,5.6
+13,Mateus Lima,,Uruguai,Meia,Corinthians,86.5,11,,29,
+14,Thiago Silva,,Brasil,Lateral,Boca Juniors,13.0,6,,24,
+15,Lucas Rocha,24.0,Chile,Atacante,São Paulo,9.2,12,8.0,28,8.6
+16,Carlos Mendes,,Uruguai,Zagueiro,Corinthians,,22,,13,
+17,João Dias,,Argentina,Lateral,Corinthians,78.2,4,,30,
+18,Pedro Ramos,,Argentina,Meia,São Paulo,29.5,15,,12,6.4
+19,Carlos Costa,31.0,Alemanha,,River Plate,97.4,11,2.0,29,
+20,Lucas Torres,,Chile,,Santos,,15,,21,7.3
+21,Mateus Costa,27.0,Portugal,Goleiro,Corinthians,,0,,14,7.6
+22,Bruno Alvarez,,Chile,,Colo-Colo,,13,4.0,22,8.9
+23,André Alvarez,,Argentina,Lateral,Benfica,,29,,27,
+24,Bruno Costa,19.0,Brasil,Zagueiro,Manchester City,28.4,0,12.0,13,
+25,Bruno Silva,21.0,França,Lateral,Benfica,15.8,11,,24,
+26,Mateus Silva,27.0,Uruguai,Lateral,Colo-Colo,4.6,28,,38,
+27,Thiago Nunes,30.0,Brasil,Atacante,Corinthians,,27,,24,8.2
+28,Carlos Dias,,Portugal,,Manchester City,,20,,25,7.9
+29,Diego Costa,,México,Lateral,Palmeiras,57.4,27,,14,7.0
+30,Pedro Rocha,,Brasil,Atacante,River Plate,,8,7.0,36,
+31,Diego Torres,28.0,França,Zagueiro,River Plate,,1,,25,8.1
+32,Bruno Ramos,20.0,Argentina,Goleiro,River Plate,,0,,21,
+33,Rafael Lima,21.0,Colômbia,Goleiro,Manchester City,,0,,38,
+34,Pedro Rocha,19.0,Argentina,Atacante,Manchester City,,23,,20,
+35,Diego Nunes,23.0,México,Atacante,River Plate,,0,15.0,14,6.2
+36,Pedro Mendes,23.0,Chile,Zagueiro,Colo-Colo,,12,,31,
+37,Thiago Rocha,,Brasil,Lateral,Manchester City,,3,14.0,34,
+38,Pedro Mendes,25.0,Argentina,Atacante,Santos,,30,,19,
+39,Lucas Alvarez,27.0,Alemanha,,Manchester City,,17,,12,
+40,Pedro Rocha,,Alemanha,Meia,Palmeiras,26.3,17,,22,
+41,Lucas Costa,21.0,Colômbia,Atacante,Colo-Colo,76.3,5,4.0,19,8.1
+42,João Dias,25.0,Chile,,River Plate,62.4,30,15.0,16,
+43,Thiago Silva,27.0,Argentina,Zagueiro,Benfica,,30,,34,
+44,André Costa,,Portugal,Lateral,Boca Juniors,,28,,19,
+45,Pedro Rocha,32.0,Portugal,Meia,River Plate,,28,,37,
+46,Rafael Costa,,Uruguai,Goleiro,Flamengo,49.0,0,8.0,30,
+47,Diego Nunes,,Argentina,Meia,Corinthians,90.4,14,5.0,17,6.1
+48,André Dias,35.0,Colômbia,Atacante,Colo-Colo,84.4,5,,36,7.2
+49,Mateus Torres,,Chile,Zagueiro,Palmeiras,,19,,37,
+50,Pedro Rocha,,Espanha,,River Plate,,23,,33,
+51,Mateus Torres,,França,Zagueiro,Flamengo,53.5,6,15.0,28,8.8
+52,Pedro Costa,,Alemanha,Meia,Colo-Colo,62.0,25,,18,
+53,Lucas Silva,,Espanha,Lateral,Benfica,80.7,5,,26,
+54,Lucas Costa,23.0,Espanha,,Benfica,,20,8.0,22,
+55,Lucas Dias,19.0,Portugal,Atacante,Corinthians,58.7,8,4.0,37,9.3
+56,Thiago Torres,,Portugal,Atacante,Palmeiras,76.1,28,,24,7.6
+57,Diego Alvarez,22.0,Espanha,Atacante,Benfica,,26,,17,
+58,André Dias,,Brasil,Atacante,Corinthians,50.6,24,,28,
+59,Mateus Alvarez,,Alemanha,Lateral,São Paulo,65.6,17,,13,6.5
+60,Lucas Mendes,28.0,Portugal,,Colo-Colo,16.1,3,6.0,32,
+61,Mateus Torres,,Uruguai,Lateral,Palmeiras,,14,,15,6.4
+62,Pedro Torres,,Alemanha,Atacante,River Plate,,0,,18,
+63,Rafael Lima,33.0,Chile,Goleiro,River Plate,67.4,0,4.0,10,
+64,Diego Dias,,Portugal,,Corinthians,15.0,2,2.0,24,8.6
+65,Bruno Dias,,Brasil,Lateral,Palmeiras,74.3,4,,38,
+66,Bruno Lima,,Espanha,,Boca Juniors,,2,4.0,32,7.2
+67,Lucas Ramos,28.0,Espanha,,Corinthians,,3,,31,
+68,Rafael Silva,23.0,Alemanha,Meia,Boca Juniors,,25,7.0,19,6.5
+69,João Rocha,32.0,França,Meia,Benfica,12.3,2,,22,
+70,Bruno Costa,,França,Atacante,Benfica,23.0,17,5.0,23,7.6
+71,Bruno Rocha,,Colômbia,Goleiro,Colo-Colo,,0,,21,
+72,Lucas Nunes,26.0,Alemanha,Atacante,São Paulo,28.2,1,,31,7.6
+73,Diego Costa,,Colômbia,Zagueiro,Santos,,29,0.0,32,7.3
+74,Rafael Ramos,,Uruguai,,Manchester City,,3,,38,8.8
+75,Thiago Ramos,,México,Meia,Boca Juniors,97.7,15,3.0,22,8.6
+76,André Nunes,,Brasil,,Boca Juniors,21.8,8,,16,9.3
+77,André Ramos,20.0,México,Meia,Colo-Colo,99.7,7,,36,5.8
+78,Bruno Dias,,Chile,Zagueiro,Benfica,,21,,35,6.2
+79,Lucas Rocha,,Alemanha,Goleiro,Colo-Colo,,0,7.0,25,
+80,André Alvarez,,Chile,Zagueiro,Santos,23.7,11,15.0,27,
+81,Diego Lima,19.0,França,,Boca Juniors,,15,15.0,36,
+82,Bruno Dias,30.0,Portugal,Zagueiro,Flamengo,79.8,22,1.0,32,6.3
+83,João Dias,,Brasil,,River Plate,17.9,29,,12,
+84,Pedro Torres,,Uruguai,Zagueiro,Manchester City,73.0,2,,17,7.5
+85,Diego Alvarez,24.0,França,,River Plate,3.4,20,,29,
+86,Pedro Lima,,França,,São Paulo,,1,1.0,23,
+87,Mateus Dias,,França,Meia,Santos,79.5,9,,30,
+88,Rafael Silva,23.0,França,,River Plate,74.6,22,,33,6.3
+89,Rafael Lima,30.0,Chile,Meia,São Paulo,,23,,20,
+90,João Silva,32.0,Espanha,Goleiro,River Plate,,0,3.0,28,7.3
+91,Carlos Torres,31.0,Brasil,Goleiro,São Paulo,90.6,0,9.0,28,8.3
+92,Diego Costa,,México,Zagueiro,Colo-Colo,,17,,10,6.2
+93,Thiago Mendes,21.0,Alemanha,,Boca Juniors,12.3,28,,36,7.1
+94,Rafael Torres,22.0,Argentina,,Colo-Colo,,24,14.0,27,9.2
+95,Diego Silva,28.0,Brasil,Goleiro,Santos,,0,,30,
+96,André Rocha,20.0,França,Goleiro,Benfica,,0,7.0,23,8.2
+97,Lucas Dias,21.0,França,Atacante,São Paulo,,16,,10,
+98,João Mendes,,Brasil,,Corinthians,,19,14.0,37,8.4
+99,Rafael Rocha,,Espanha,,Santos,67.5,2,9.0,35,
+100,Thiago Ramos,29.0,Colômbia,Atacante,Boca Juniors,,0,,12,

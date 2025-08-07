@@ -26,7 +26,7 @@ Este projeto reúne scripts Python e notebooks Jupyter (`.ipynb`) para explorar,
 
 Para deixar tudo funcionando redondo, foram usadas algumas bibliotecas essenciais:
 
-- **plotly** — para manipulação eficiente de dados numéricos.
+- **plotly** — interativo, gera gráficos que podem ser usados em web apps ou notebooks
 - **pandas** — análise e organização dos dados tabulares dos jogadores.
 - **jupyter** — ambiente interativo para explorar e testar códigos.
 

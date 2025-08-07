@@ -7,8 +7,8 @@ Este projeto reúne scripts Python e notebooks Jupyter (`.ipynb`) para explorar,
 
 ## Conteúdo do projeto
 
-- **Scripts Python (`.py`)**: Código organizado em scripts para automação, análises e tarefas específicas.
-- **Notebooks Jupyter (`.ipynb`)**: Ambientes interativos para exploração, visualização e documentação passo a passo.
+- **Scripts Python**: Código organizado em scripts para automação, análises e tarefas específicas.
+- **Notebooks Jupyter**: Ambientes interativos para exploração, visualização e documentação passo a passo.
 
 ---
 
@@ -26,7 +26,7 @@ Este projeto reúne scripts Python e notebooks Jupyter (`.ipynb`) para explorar,
 
 Para deixar tudo funcionando redondo, foram usadas algumas bibliotecas essenciais:
 
-- **numpy** — para manipulação eficiente de dados numéricos.
+- **plotly** — para manipulação eficiente de dados numéricos.
 - **pandas** — análise e organização dos dados tabulares dos jogadores.
 - **jupyter** — ambiente interativo para explorar e testar códigos.
 

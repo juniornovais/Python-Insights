@@ -1,7 +1,7 @@
 # Python Insights
 
 Bem-vindo ao **Python Insights**!  
-Este projeto reúne scripts Python e notebooks Jupyter (`.ipynb`) para explorar, analisar e aprender conceitos práticos com Python — usando exemplos do mundo do futebol.
+Este projeto reúne scripts Python e notebooks Jupyter para explorar, analisar e aprender conceitos práticos com Python — usando exemplos do mundo do futebol.
 
 ---
 
